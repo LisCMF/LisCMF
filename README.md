@@ -22,7 +22,6 @@ I'm a Software Engineer based in New York City, NY, with a diverse background in
 ![GitHub followers](https://img.shields.io/github/followers/LisCMF?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/LisCMF?style=social)
 
-![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ## 🛠️ Technical Skills
 
