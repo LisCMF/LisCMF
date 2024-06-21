@@ -60,7 +60,3 @@ I'm Lis Medina Frey, a software engineer based in New York City, NY. I have exte
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/LisMedina)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/LisCMF)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LisCMF&layout=compact&theme=radical)
-
-
